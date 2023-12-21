@@ -1,1 +1,1 @@
-# .github
+# Hypergraph Repository
